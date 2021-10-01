@@ -8,3 +8,9 @@
 - https://search.google.com/
 - https://www.similarweb.com/
 - https://displaypurposes.com/
+
+## Colors:
+
+- https://webgradients.com/
+- https://colorsinspo.com/
+- https://colors.muz.li/
