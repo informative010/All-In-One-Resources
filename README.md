@@ -14,3 +14,7 @@
 - https://webgradients.com/
 - https://colorsinspo.com/
 - https://colors.muz.li/
+- https://www.culrs.com/
+- http://khroma.co/
+- https://colorhunt.co/
+- https://coolors.co/
