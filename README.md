@@ -19,7 +19,7 @@
 - https://colorhunt.co/
 - https://coolors.co/
 
-## CSS Code Generators
+## CSS Code Generators:
 
 - https://css3generator.com/
 - https://www.colorzilla.com/
