@@ -19,7 +19,6 @@
 - https://colorhunt.co/
 - https://coolors.co/
 
-
 ## Mockups:
 
 - https://mockuptree.com/
