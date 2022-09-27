@@ -19,14 +19,9 @@
 - https://colorhunt.co/
 - https://coolors.co/
 
-## CSS Code Generators:
+## Mockups:
 
-- https://css3generator.com/
-- https://www.colorzilla.com/
-- https://stripesgenerator.com/
-- https://cssgradient.io/
-- http://csstypeset.com/
-- https://enjoycss.com/
-- https://the-echoplex.net/flexyboxes/
-- https://cssmatic.com/
-
+- https://mockuptree.com/
+- https://unblast.com/search/mockups/
+- https://mockuuups.studio/
+- https://jitter.video/gallery/
