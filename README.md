@@ -1,6 +1,5 @@
 # All-In-One-Resources
 
-
 ## Analytics:
 
 - https://analytics.google.com/
@@ -18,6 +17,7 @@
 - http://khroma.co/
 - https://colorhunt.co/
 - https://coolors.co/
+- https://uigradients.com/
 
 ## Mockups:
 
@@ -32,6 +32,7 @@
 - https://unsplash.com/
 - https://www.pexels.com/
 - https://stocksnap.io/
+- https://burst.shopify.com/
 
 ## PNGs:
 
@@ -46,3 +47,11 @@
 - https://compressor.io/
 - https://squoosh.app/
 - https://tinypng.com/
+
+## ICONs:
+
+- https://flaticon.com/
+
+## Academic and Education Books:
+
+- https://pdfdrive.com/
