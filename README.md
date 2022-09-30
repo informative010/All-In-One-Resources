@@ -28,21 +28,21 @@
 
 ## Stock Images:
 
-- [https://jitter.video/gallery/](https://pixabay.com/)
-- [https://mockuptree.com/](https://unsplash.com/)
-- [https://unblast.com/search/mockups/](https://www.pexels.com/)
-- [https://mockuuups.studio/](https://stocksnap.io/)
+- https://pixabay.com/
+- https://unsplash.com/
+- https://www.pexels.com/
+- https://stocksnap.io/
 
 ## PNGs:
 
-- [https://jitter.video/gallery/](https://pngtree.com/)
-- [https://mockuptree.com/](https://www.freepik.com/)
-- [https://unblast.com/search/mockups/](https://www.pngfind.com/)
-- [https://mockuuups.studio/](https://www.vhv.rs/)
+- https://pngtree.com/
+- https://www.freepik.com/
+- https://www.pngfind.com/
+- https://www.vhv.rs/
 
 ## Image Compressor:
 
-- [https://www.iloveimg.com/compress-image](https://www.iloveimg.com/compress-image)
+- https://www.iloveimg.com/compress-image
 - https://compressor.io/
 - https://squoosh.app/
 - https://tinypng.com/
