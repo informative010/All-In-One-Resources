@@ -32,3 +32,10 @@
 - [https://mockuptree.com/](https://unsplash.com/)
 - [https://unblast.com/search/mockups/](https://www.pexels.com/)
 - [https://mockuuups.studio/](https://stocksnap.io/)
+
+## PNGs:
+
+- [https://jitter.video/gallery/](https://pngtree.com/)
+- [https://mockuptree.com/](https://www.freepik.com/)
+- [https://unblast.com/search/mockups/](https://www.pngfind.com/)
+- [https://mockuuups.studio/](https://www.vhv.rs/)
