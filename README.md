@@ -39,3 +39,10 @@
 - [https://mockuptree.com/](https://www.freepik.com/)
 - [https://unblast.com/search/mockups/](https://www.pngfind.com/)
 - [https://mockuuups.studio/](https://www.vhv.rs/)
+
+## Image Compressor:
+
+- [https://www.iloveimg.com/compress-image](https://www.iloveimg.com/compress-image)
+- https://compressor.io/
+- https://squoosh.app/
+- https://tinypng.com/
