@@ -55,3 +55,17 @@
 ## Academic and Education Books:
 
 - https://pdfdrive.com/
+- https://scholarworks.gvsu.edu/books/
+- http://www.textbooksfree.org/
+- https://open.umn.edu/opentextbooks/
+- https://www.free-ebooks.net/
+- https://librarygenesis.net/
+- http://www.pdfsearchengine.net/
+- https://archive.org/details/books
+- https://www.pdfbooksworld.com/
+- https://www.gutenberg.org/ 
+- https://www.obooko.com/
+- http://www.loyalbooks.com/
+- https://www.loc.gov/
+- https://www.europeana.eu/en
+- https://openstax.org/
