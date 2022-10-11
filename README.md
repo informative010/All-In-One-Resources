@@ -51,6 +51,11 @@
 ## ICONs:
 
 - https://flaticon.com/
+- https://icons8.com/icons
+- https://www.iconfinder.com/
+- https://iconscout.com/free-icons
+- https://freeicons.io/
+- https://www.visme.co/icon-finder/
 
 ## Academic and Education Books:
 
