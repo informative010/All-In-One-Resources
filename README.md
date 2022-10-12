@@ -56,6 +56,29 @@
 - https://iconscout.com/free-icons
 - https://freeicons.io/
 - https://www.visme.co/icon-finder/
+- https://css.gg/
+- https://erikflowers.github.io/weather-icons/
+- https://microsoft.github.io/vscode-codicons/dist/codicon.html
+- https://www.s-ings.com/typicons/
+- https://themify.me/themify-icons
+- https://tabler-icons.io/
+- https://thesabbir.github.io/simple-line-icons/
+- https://simpleicons.org/
+- https://remixicon.com/
+- https://fonts.google.com/icons
+- https://ionic.io/ionicons
+- https://heroicons.com/
+- https://icons.grommet.io/?
+- https://primer.style/octicons/
+- https://game-icons.net/
+- https://fontawesome.com/icons
+- https://icons8.com/icons/color
+- https://circumicons.com/
+- https://devicon.dev/
+- https://feathericons.com/
+- https://icons.getbootstrap.com/
+- https://boxicons.com/
+- https://ant.design/components/icon/
 
 ## Academic and Education Books:
 
