@@ -47,6 +47,8 @@
 - https://compressor.io/
 - https://squoosh.app/
 - https://tinypng.com/
+- https://www.compress2go.com/compress-image
+- https://imageresizer.com/image-compressor
 
 ## ICONs:
 
