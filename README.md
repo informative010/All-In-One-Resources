@@ -74,3 +74,11 @@
 - https://www.loc.gov/
 - https://www.europeana.eu/en
 - https://openstax.org/
+
+## Programming and Technology Ebooks
+- https://books.goalkicker.com/
+- https://computer-pdf.com/
+- https://introprogramming.info/
+- https://introprogramming.info/
+- https://www.onlineprogrammingbooks.com/
+- https://www.programmer-books.com/
