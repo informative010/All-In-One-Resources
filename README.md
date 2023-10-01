@@ -74,3 +74,14 @@
 - https://www.loc.gov/
 - https://www.europeana.eu/en
 - https://openstax.org/
+
+## Resume Builder:
+
+- https://app.rezi.ai/
+- https://novoresume.com/
+- https://rxresu.me/
+- https://app.enhancv.com/
+- https://buildresume.learncodeonline.in/
+- https://www.wozber.com/en-us/
+
+
