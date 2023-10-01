@@ -88,3 +88,6 @@
 
 - https://tinywow.com/
 - https://convertio.co/
+- https://cloudconvert.com/
+- https://123apps.com/
+- https://www.xconvert.com/
